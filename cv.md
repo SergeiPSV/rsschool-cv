@@ -2,8 +2,8 @@
 ###  My contacts 
  1. location:Turkey,Kuşadası
  2. Phone: +90 506 391 85 66
- 3. Email:serporv@gmail.com
- 4. Telegram: (https://t.me/Sergei1PSV)
+ 3. Email: serporv@gmail.com
+ 4. Telegram: https://t.me/Sergei1PSV
  5. Discord: Sergei PSV (@SergeiPSV)
  ### About Myself:
  Graduated from the university with a degree in mechanical engineering.
